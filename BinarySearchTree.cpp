@@ -1,5 +1,5 @@
 // BinarySearchTree.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Please do not use this file. It is buggy. 
 
 #include <iostream>
 #include "Node.h"
